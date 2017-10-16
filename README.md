@@ -1,2 +1,2 @@
-# Material Design
+# Material
 common files for material design
